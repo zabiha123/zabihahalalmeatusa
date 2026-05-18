@@ -1,0 +1,7 @@
+User-agent: *
+Allow: /
+
+# GitHub Pages site - no need to block anything for now
+
+# Sitemap (important for SEO)
+Sitemap: https://zabiha123.github.io/zabihahalalmeatusa/sitemap.xml
